@@ -12,7 +12,7 @@ This project is a paint-like application developed in Qt. It not only provides a
 
 ## Video Demo
 
-[![Project Demo](Demo/Thumb.png)](Demo/Vid.mkv)
+[![Project Demo](Demo/Thumb.png)](Demo/Vid.mp4)
 
 Click on the above image to watch the video demonstration showcasing how data is sent from the Qt application to the localhost server.
 
